@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fokso\\source\\repos\\FunWithUnitTesting\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{060C3E23-4F88-47A6-A758-325636DC5E5F}|FunWithUnitTesting\\FunWithUnitTesting.csproj|c:\\users\\fokso\\source\\repos\\funwithunittesting\\funwithunittesting\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{060C3E23-4F88-47A6-A758-325636DC5E5F}|FunWithUnitTesting\\FunWithUnitTesting.csproj|solutionrelative:funwithunittesting\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{060C3E23-4F88-47A6-A758-325636DC5E5F}|FunWithUnitTesting\\FunWithUnitTesting.csproj|c:\\users\\fokso\\source\\repos\\funwithunittesting\\funwithunittesting\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{060C3E23-4F88-47A6-A758-325636DC5E5F}|FunWithUnitTesting\\FunWithUnitTesting.csproj|solutionrelative:funwithunittesting\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9B27BDE-51B1-4E36-A03B-7530B4281BFB}|UnitTestOne\\UnitTestOne.csproj|c:\\users\\fokso\\source\\repos\\funwithunittesting\\unittestone\\cartests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9B27BDE-51B1-4E36-A03B-7530B4281BFB}|UnitTestOne\\UnitTestOne.csproj|solutionrelative:unittestone\\cartests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{060C3E23-4F88-47A6-A758-325636DC5E5F}|FunWithUnitTesting\\FunWithUnitTesting.csproj|c:\\users\\fokso\\source\\repos\\funwithunittesting\\funwithunittesting\\testraport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{060C3E23-4F88-47A6-A758-325636DC5E5F}|FunWithUnitTesting\\FunWithUnitTesting.csproj|solutionrelative:funwithunittesting\\testraport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9B27BDE-51B1-4E36-A03B-7530B4281BFB}|UnitTestOne\\UnitTestOne.csproj|c:\\users\\fokso\\source\\repos\\funwithunittesting\\unittestone\\testraporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9B27BDE-51B1-4E36-A03B-7530B4281BFB}|UnitTestOne\\UnitTestOne.csproj|solutionrelative:unittestone\\testraporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{060C3E23-4F88-47A6-A758-325636DC5E5F}|FunWithUnitTesting\\FunWithUnitTesting.csproj|c:\\users\\fokso\\source\\repos\\funwithunittesting\\funwithunittesting\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{060C3E23-4F88-47A6-A758-325636DC5E5F}|FunWithUnitTesting\\FunWithUnitTesting.csproj|solutionrelative:funwithunittesting\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Service.cs",
+              "DocumentMoniker": "C:\\Users\\fokso\\source\\repos\\FunWithUnitTesting\\FunWithUnitTesting\\Service.cs",
+              "RelativeDocumentMoniker": "FunWithUnitTesting\\Service.cs",
+              "ToolTip": "C:\\Users\\fokso\\source\\repos\\FunWithUnitTesting\\FunWithUnitTesting\\Service.cs",
+              "RelativeToolTip": "FunWithUnitTesting\\Service.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T17:02:52.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TestRaporter.cs",
+              "DocumentMoniker": "C:\\Users\\fokso\\source\\repos\\FunWithUnitTesting\\UnitTestOne\\TestRaporter.cs",
+              "RelativeDocumentMoniker": "UnitTestOne\\TestRaporter.cs",
+              "ToolTip": "C:\\Users\\fokso\\source\\repos\\FunWithUnitTesting\\UnitTestOne\\TestRaporter.cs",
+              "RelativeToolTip": "UnitTestOne\\TestRaporter.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAuwB0AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T16:29:28.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TestRaport.cs",
+              "DocumentMoniker": "C:\\Users\\fokso\\source\\repos\\FunWithUnitTesting\\FunWithUnitTesting\\TestRaport.cs",
+              "RelativeDocumentMoniker": "FunWithUnitTesting\\TestRaport.cs",
+              "ToolTip": "C:\\Users\\fokso\\source\\repos\\FunWithUnitTesting\\FunWithUnitTesting\\TestRaport.cs",
+              "RelativeToolTip": "FunWithUnitTesting\\TestRaport.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T16:23:40.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CarTests.cs",
+              "DocumentMoniker": "C:\\Users\\fokso\\source\\repos\\FunWithUnitTesting\\UnitTestOne\\CarTests.cs",
+              "RelativeDocumentMoniker": "UnitTestOne\\CarTests.cs",
+              "ToolTip": "C:\\Users\\fokso\\source\\repos\\FunWithUnitTesting\\UnitTestOne\\CarTests.cs",
+              "RelativeToolTip": "UnitTestOne\\CarTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T16:17:56.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\fokso\\source\\repos\\FunWithUnitTesting\\FunWithUnitTesting\\Car.cs",
+              "RelativeDocumentMoniker": "FunWithUnitTesting\\Car.cs",
+              "ToolTip": "C:\\Users\\fokso\\source\\repos\\FunWithUnitTesting\\FunWithUnitTesting\\Car.cs",
+              "RelativeToolTip": "FunWithUnitTesting\\Car.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T16:13:43.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\fokso\\source\\repos\\FunWithUnitTesting\\FunWithUnitTesting\\UserService.cs",
+              "RelativeDocumentMoniker": "FunWithUnitTesting\\UserService.cs",
+              "ToolTip": "C:\\Users\\fokso\\source\\repos\\FunWithUnitTesting\\FunWithUnitTesting\\UserService.cs",
+              "RelativeToolTip": "FunWithUnitTesting\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T17:02:30.297Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

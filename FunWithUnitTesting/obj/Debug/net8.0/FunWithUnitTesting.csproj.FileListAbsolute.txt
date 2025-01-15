@@ -1,0 +1,14 @@
+C:\Users\fokso\source\repos\FunWithUnitTesting\FunWithUnitTesting\bin\Debug\net8.0\FunWithUnitTesting.exe
+C:\Users\fokso\source\repos\FunWithUnitTesting\FunWithUnitTesting\bin\Debug\net8.0\FunWithUnitTesting.deps.json
+C:\Users\fokso\source\repos\FunWithUnitTesting\FunWithUnitTesting\bin\Debug\net8.0\FunWithUnitTesting.runtimeconfig.json
+C:\Users\fokso\source\repos\FunWithUnitTesting\FunWithUnitTesting\bin\Debug\net8.0\FunWithUnitTesting.dll
+C:\Users\fokso\source\repos\FunWithUnitTesting\FunWithUnitTesting\bin\Debug\net8.0\FunWithUnitTesting.pdb
+C:\Users\fokso\source\repos\FunWithUnitTesting\FunWithUnitTesting\obj\Debug\net8.0\FunWithUnitTesting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fokso\source\repos\FunWithUnitTesting\FunWithUnitTesting\obj\Debug\net8.0\FunWithUnitTesting.AssemblyInfoInputs.cache
+C:\Users\fokso\source\repos\FunWithUnitTesting\FunWithUnitTesting\obj\Debug\net8.0\FunWithUnitTesting.AssemblyInfo.cs
+C:\Users\fokso\source\repos\FunWithUnitTesting\FunWithUnitTesting\obj\Debug\net8.0\FunWithUnitTesting.csproj.CoreCompileInputs.cache
+C:\Users\fokso\source\repos\FunWithUnitTesting\FunWithUnitTesting\obj\Debug\net8.0\FunWithUnitTesting.dll
+C:\Users\fokso\source\repos\FunWithUnitTesting\FunWithUnitTesting\obj\Debug\net8.0\refint\FunWithUnitTesting.dll
+C:\Users\fokso\source\repos\FunWithUnitTesting\FunWithUnitTesting\obj\Debug\net8.0\FunWithUnitTesting.pdb
+C:\Users\fokso\source\repos\FunWithUnitTesting\FunWithUnitTesting\obj\Debug\net8.0\FunWithUnitTesting.genruntimeconfig.cache
+C:\Users\fokso\source\repos\FunWithUnitTesting\FunWithUnitTesting\obj\Debug\net8.0\ref\FunWithUnitTesting.dll
